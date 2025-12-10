@@ -25,7 +25,7 @@ selected countries using data visualization techniques.
 
 ## Key Findings
 - COVID-19 case numbers increased over time across all analyzed countries.
-- COVID-19 death rates differ between countries.
+- COVID-19 death rates vary between countries.
 - These differences may be influenced by healthcare capacity, testing policies,
   population demographics, and vaccination coverage.
 
